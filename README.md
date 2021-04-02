@@ -10,4 +10,8 @@ SFML folder in
 
 for 32bit and 64bit versions respectively.
 
+If you're even more lazy here's the [link](https://1drv.ms/u/s!Am68oHqLT8iVplQtUwAm7TyYeoO6?e=3kOL3e)
+to a zip file which has all the libraries.
+Just copy and extract as previously stated directory order.
+
 E-mail me if there is any trouble.
